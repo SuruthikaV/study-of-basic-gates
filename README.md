@@ -86,12 +86,18 @@ endmodule
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+<img width="1920" height="1080" alt="EX 1(logic circuit)" src="https://github.com/user-attachments/assets/91c0331d-0a7f-442f-8602-bb5f7ce159f4" />
+
+
 
 
 **RTL**
 
+<img width="1920" height="1080" alt="EX1(waveform)" src="https://github.com/user-attachments/assets/b89c35df-eff1-4456-b272-c8c40d93c35e" />
 
-**Result:**
+
+
+
 
 CONCLUSION:
 	Thus the outputs of Basic Logic Gates are verified by simulating and synthesizing the VERILOG code.
